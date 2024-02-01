@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "private": true,
+  "name": "giphy-oop-challenge",
+  "dependencies": {
+    "got": "^11.8.6"
+  },
+  "engines": {
+    "node": "^16.18"
+  }
+}
